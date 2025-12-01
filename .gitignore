@@ -1,0 +1,18 @@
+# Arquivos temporários
+*.log
+*.tmp
+*~
+
+# Docker
+*.tar
+*.pid
+*.img
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
